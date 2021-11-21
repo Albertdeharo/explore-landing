@@ -37,3 +37,17 @@ h3 {
   padding: 3rem 1rem;
   text-align: justify;
 }
+
+.spanTest{
+  background-color: red;
+}
+.section-container{
+  background-color: #333;
+  display: flex;
+  justify-content: center;
+  padding-top: 10vh;
+}
+
+.nav{
+  display: flex;
+}
