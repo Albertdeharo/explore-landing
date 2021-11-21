@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/explore-landing/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/explore-landing/static/js/main.28b7dc4f.chunk.js",
-    "main.js.map": "/explore-landing/static/js/main.28b7dc4f.chunk.js.map",
-    "runtime-main.js": "/explore-landing/static/js/runtime-main.955e8484.js",
-    "runtime-main.js.map": "/explore-landing/static/js/runtime-main.955e8484.js.map",
-    "static/js/2.db194289.chunk.js": "/explore-landing/static/js/2.db194289.chunk.js",
-    "static/js/2.db194289.chunk.js.map": "/explore-landing/static/js/2.db194289.chunk.js.map",
-    "static/js/3.468e941d.chunk.js": "/explore-landing/static/js/3.468e941d.chunk.js",
-    "static/js/3.468e941d.chunk.js.map": "/explore-landing/static/js/3.468e941d.chunk.js.map",
+    "main.css": "/explore-landing/static/css/main.62dde1be.chunk.css",
+    "main.js": "/explore-landing/static/js/main.e592e0b1.chunk.js",
+    "main.js.map": "/explore-landing/static/js/main.e592e0b1.chunk.js.map",
+    "runtime-main.js": "/explore-landing/static/js/runtime-main.21a2de97.js",
+    "runtime-main.js.map": "/explore-landing/static/js/runtime-main.21a2de97.js.map",
+    "static/js/2.6e81c44e.chunk.js": "/explore-landing/static/js/2.6e81c44e.chunk.js",
+    "static/js/2.6e81c44e.chunk.js.map": "/explore-landing/static/js/2.6e81c44e.chunk.js.map",
     "index.html": "/explore-landing/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/explore-landing/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.db194289.chunk.js.LICENSE.txt": "/explore-landing/static/js/2.db194289.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/explore-landing/static/media/logo.6ce24c58.svg"
+    "static/css/main.62dde1be.chunk.css.map": "/explore-landing/static/css/main.62dde1be.chunk.css.map",
+    "static/js/2.6e81c44e.chunk.js.LICENSE.txt": "/explore-landing/static/js/2.6e81c44e.chunk.js.LICENSE.txt",
+    "static/media/lofoten_norway.1f25bd1e.jpg": "/explore-landing/static/media/lofoten_norway.1f25bd1e.jpg",
+    "static/media/route.d6cf4ab3.jpg": "/explore-landing/static/media/route.d6cf4ab3.jpg",
+    "static/media/triund_india.dd2a16fe.jpg": "/explore-landing/static/media/triund_india.dd2a16fe.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.955e8484.js",
-    "static/js/2.db194289.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.28b7dc4f.chunk.js"
+    "static/js/runtime-main.21a2de97.js",
+    "static/js/2.6e81c44e.chunk.js",
+    "static/css/main.62dde1be.chunk.css",
+    "static/js/main.e592e0b1.chunk.js"
   ]
 }
