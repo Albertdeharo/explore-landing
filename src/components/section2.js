@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { Parallax } from 'react-parallax';
 import triund_india from './../assets/triund_india.jpg';
 

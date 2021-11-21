@@ -1,7 +1,9 @@
+import React from 'react';
+
 import { Parallax } from 'react-parallax';
 import lofoten_norway from './../assets/lofoten_norway.jpg';
 
-// import './nav.scss'
+import './nav.scss'
 
 const Section1 = () => (
     <Parallax className="image" bgImage={lofoten_norway} strength={200}>

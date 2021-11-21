@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { Parallax } from 'react-parallax';
 import route from './../assets/route.jpg';
 
